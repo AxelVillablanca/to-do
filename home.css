@@ -11,10 +11,10 @@ body{
     background-image: linear-gradient(to top, #4fe5f2, #1bd7ff, #65c1ff, #b3a3ff, #ee7ee0);
     background-size: cover;
     background-repeat: no-repeat;
+    background-position: fixed;
     min-height:120vh;
     max-width: 200vw;
-    overflow: scroll;
-
+    overflow-y: scroll;
 }
 
 header h1{
