@@ -13,7 +13,6 @@ body{
     background-repeat: no-repeat;
     min-height:120vh;
     max-width: 200vw;
-    overflow-y:hidden;
 }
 
 header h1{
